@@ -1,1 +1,5 @@
-# DSCB230 Tutorium im Sommersemester 2025
+# DSCB230 Tutorium
+Sommersemester 2025
+
+## Tutoren
+- Herr Leon Gjinovci, Student Data Science Bachelor, gjle1011@h-ka.de
