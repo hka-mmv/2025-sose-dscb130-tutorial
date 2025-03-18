@@ -1,1 +1,1 @@
-# 2025-sose-dscb130-tutorial
+# DSCB230 Tutorium im Sommersemester 2025
