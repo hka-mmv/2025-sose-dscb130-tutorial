@@ -1,4 +1,4 @@
-# DSCB230 Tutorium
+# DSCB130 Tutorium
 Sommersemester 2025
 
 ## Tutoren
